@@ -1,0 +1,4 @@
+1. 新建一个团队的github private repo；
+2. Fork Ant Design Pro到git private repo中；
+3. 在ant design pro的基础上添加一个侧边栏menu叫流程，底下添加4个子menu；
+4. 第一个子menu点击后，转入一个页面
